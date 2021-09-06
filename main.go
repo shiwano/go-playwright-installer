@@ -9,7 +9,7 @@ import (
 
 func main() {
 	if len(os.Args) <= 1 {
-		log.Fatal("USAGE: go-playwright-installer <driver-directory> [browsers]")
+		log.Fatal("USAGE: playwright-go-installer <driver-directory> [browsers]")
 	}
 
 	driverDir := os.Args[1]
