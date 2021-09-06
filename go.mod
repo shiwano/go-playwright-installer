@@ -1,4 +1,4 @@
-module github.com/shiwano/go-playwright-installer
+module github.com/shiwano/playwright-go-installer
 
 go 1.16
 
