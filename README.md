@@ -1,7 +1,7 @@
-# go-playwright-installer
+# playwright-go-installer
 
 ## Usage
 
 ```
-go-playwright-installer <driver-directory> [browsers]
+playwright-go-installer <driver-directory> [browsers]
 ```
